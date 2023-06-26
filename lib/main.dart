@@ -3,12 +3,12 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Main());
 }
-
-class MyApp extends StatelessWidget {
+///Begin
+class Main extends StatelessWidget {
   /// This widget is the root of your application.
-  const MyApp({super.key});
+  const Main({super.key});
 
   @override
   Widget build(BuildContext context) {
